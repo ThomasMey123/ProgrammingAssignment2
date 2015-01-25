@@ -1,4 +1,4 @@
-## The functions in this file allow create a special object that stores a matix and caches its inverse 
+## The functions in this file allow to create a special object that stores a matix and caches its inverse 
 ## 
 ## Usage sample:
 ## m<-matrix(c(1,1,0,1),2,2)
